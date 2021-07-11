@@ -10,7 +10,10 @@
 
 header {
     background-color: var(--color-amarillo);
+    height: auto;
+    
 }
+
 .home header p{
     text-align: center;
 }
@@ -88,12 +91,12 @@ footer{
     background-color: white;
     padding-top: 30px;
 }
-.home footer{
+ footer{
     text-align: center;
     padding: 30px;
     margin: 0;
 }
-.home footer i{
+ footer i{
     font-size: 2em;
     margin-bottom: 10px;
 }

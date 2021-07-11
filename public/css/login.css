@@ -1,0 +1,20 @@
+.login{
+    background-color: rgb(211, 211, 211);
+    text-align: center;
+    width: 100%;
+    padding: 80px 0px;
+}
+
+.usuario input{
+    margin: 13px 0px;
+    padding: 10px 350px;
+    border-radius: 1em 1em 1em 1em; 
+}
+.boton-enviar button{
+    background-color: blue;
+    margin: 13px 0px;
+    padding: 10px 412px;
+    border-radius: 1em 1em 1em 1em; 
+    color: white; 
+}
+

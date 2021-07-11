@@ -1,0 +1,26 @@
+
+.register{
+    background-color: rgb(211, 211, 211);
+    margin-right: 80%;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+    
+}
+.nombre input{
+    margin: 13px 0px;
+    padding: 10px 15px;
+    border-radius: 2em 2em 2em 2em;
+}
+.usuario input{
+    margin: 15px 0;
+}
+.interes input{
+    margin: 13px 0;
+}
+.botones button{
+    margin: 13px 30px;
+    padding: 8px 18px;
+    border-radius: 2em 2em 2em 2em;
+    
+}
